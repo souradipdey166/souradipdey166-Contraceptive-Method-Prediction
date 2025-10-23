@@ -1,4 +1,4 @@
-# souradipdey166-Contraceptive-Method-Prediction
+# Contraceptive-Method-Prediction
 
 # Contraceptive Method Usage Prediction 🤰👶📊
 
