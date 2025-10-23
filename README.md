@@ -55,13 +55,3 @@ TP: 129, TN: 75, FP: 55, FN: 36
 
 The Random Forest model is the star performer for predicting contraceptive method usage in this project. 🌟 There's always room for improvement though, maybe some hyperparameter tuning or trying out other algorithms could boost performance even more! 💪
 
-## How to Run the Notebook
-
-1.  Upload the `Contraceptive_method_dataset.xlsx` file to your Google Colab environment. 📂
-2.  Run the code cells one by one. ▶️
-
-## Repository Structure
-
-*   `Contraceptive_method_dataset.xlsx`: The dataset file. 📊
-*   `Your_Notebook_Name.ipynb`: The Google Colab notebook with all the code. 📒
-*   `README.md`: This awesome README file! ✨
